@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Adaptive Learning Platform for Neuro-Diverse Minds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
